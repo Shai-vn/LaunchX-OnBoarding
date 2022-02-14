@@ -1,2 +1,2 @@
-# LaunchX-Modulo1
-Katas del primer módulo de LaunchX (Curso de desarrollo fullStack de Innovacción virtual).
+# LaunchX-Primera misión.
+Katas para LaunchX (Curso de desarrollo fullStack de Innovacción virtual).
