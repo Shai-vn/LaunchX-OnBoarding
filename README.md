@@ -1,2 +1,3 @@
-# LaunchX-Primera misión.
-Katas para LaunchX (Curso de desarrollo fullStack de Innovacción virtual).
+# LaunchX-OnBoarding
+Katas para LaunchX. 
+Autor: Liath Shai Vasquez Nochebuena
